@@ -1,0 +1,10 @@
+#Токен вашего бота
+bot_token = '5020958273:AAHrQwcUkxHMBpCFoI903kaVc4AbMPBY6QI'
+#ID админа
+admin = 2097409475
+#Юзер саппорта
+support = '@'
+#Канал с отзывами
+#feedback = 'https://t.me/+vBvxwpLJlhI2Nzgy'
+#Название магазина
+shop_name = 'DruGSZshop'
